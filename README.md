@@ -105,6 +105,6 @@ Visit `http://localhost:8501` in your browser.
 
 ---
 
-## 📬 Contact
+## 📬 Contributor
 
-For any issues, suggestions, or questions, please contact the project maintainer.
+Arun Kumar (IIT ROORKEE)
